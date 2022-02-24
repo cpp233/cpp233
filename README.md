@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [Simple Icons](https://github.com/simple-icons/simple-icons)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
+- [仓库中github主页"豪华装修"案例分享](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 -->
+
